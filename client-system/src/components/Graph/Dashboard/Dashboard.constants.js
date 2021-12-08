@@ -1,0 +1,9 @@
+export const CHANGE_CLOCK_TYPE = "CHANGE_CLOCK_TYPE";
+export const DRAW_ANGLE = "DRAW_ANGLE";
+export const DRAW_LINE = "DRAW_LINE";
+export const CHANGE_GRAPH_RANGE = "CHANGE_GRAPH_RANGE";
+export const REMOVE_SELECTED = "REMOVE_SELECTED";
+export const REMOVE_ALL = "REMOVE_ALL";
+export const DRAW_CROSS = "DRAW_CROSS";
+export const OTHER_DRAWING = "OTHER_DRAWING";
+export const SHOW_EVENT_LOCATION = "SHOW_EVENT_LOCATION";

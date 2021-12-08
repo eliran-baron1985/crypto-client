@@ -1,0 +1,2 @@
+export const SEND_SYMBOL_TYPE = "SEND_SYMBOL_TYPE";
+export const ALLOW_DATA_FLOW = "ALLOW_DATA_FLOW";
